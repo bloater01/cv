@@ -15,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   transition: 0.5s;
-  background: #984063;
+  background: rgba(255, 0, 0, 0.5);
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
