@@ -15,7 +15,10 @@ body {
   margin: 0;
   padding: 0;
   transition: 0.5s;
-  background: #984063;
+  background-image: url('./alvaro-cuenza-barrado-404.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
